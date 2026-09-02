@@ -1,3 +1,8 @@
+---
+name: legal-industry-law
+description: 企业合同、劳动用工、隐私合规和民商事争议的信息整理与风险识别。
+---
+
 # 法律行业分析 Skill
 
 ## 任务定位
