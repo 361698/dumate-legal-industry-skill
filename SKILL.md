@@ -1,5 +1,5 @@
 ---
-name: legal-industry-law
+name: legal-family-divorce
 description: 企业合同、劳动用工、隐私合规、民商事争议和婚姻家事的信息整理与风险识别，重点支持离婚财产、子女抚养与家暴证据场景。
 ---
 
